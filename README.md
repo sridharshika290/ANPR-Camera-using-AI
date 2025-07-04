@@ -4,7 +4,7 @@
 
 The system uses CNN-based models 🤖 for detecting vehicles and plates, followed by OCR 🔍 to read characters on the plates. Advanced image enhancement techniques ✨ like deblurring, noise reduction, and contrast adjustments are applied for better accuracy 🎯.
 
-This solution can be used in traffic monitoring 🚦, automated tolls 🪙, parking systems 🅿️, and law enforcement 🚔.
+This solution can be used in traffic monitoring 🚦, automated tolls 🪙, parking systems 🅿️, and law enforcement 🚔
 
 🔑 Key Features: 🎥 Real-time vehicle & plate detection
 
